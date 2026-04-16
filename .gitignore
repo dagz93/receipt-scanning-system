@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+
+# Build outputs
+/dist/
+/build/
+
+# Environment variable files
+.env
+
+# macOS files
+.DS_Store
+
+# IDE files
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Docker volumes
+-docker/
+
+# Logs
+*.log
+
+# OS specific files
+Thumbs.db
+ehthumbs.db
